@@ -35,8 +35,8 @@ SWE @ Aviatrix
 
 # 📊 GitHub Stats:
 <div style="display: flex; width: 100%">
-  <img style="width: 45%" src="https://github-readme-stats.vercel.app/api?username=tonynchen&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
-  <img style="width: 45%" src="https://github-readme-streak-stats.herokuapp.com/?user=tonynchen&theme=react&hide_border=false" />
+  <img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=tonynchen&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
+  <img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tonynchen&theme=react&hide_border=false" />
 </div>
 
 ---
