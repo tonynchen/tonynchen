@@ -10,7 +10,7 @@ SWE @ Aviatrix
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tonynchen&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tonynchen&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonynchen&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tonynchen&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
