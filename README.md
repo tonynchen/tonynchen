@@ -32,13 +32,6 @@ SWE @ Aviatrix
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=plastic&logo=alfred)
 
-
-# 📊 GitHub Stats:
-<div style="display: flex; width: 100%">
-  <img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=tonynchen&theme=react&hide_border=false&include_all_commits=true&count_private=true" />
-  <img style="width: 49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tonynchen&theme=react&hide_border=false" />
-</div>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=tonynchen&icon=0&color=0)](https://visitcount.itsvg.in)
