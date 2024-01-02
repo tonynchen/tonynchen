@@ -1,5 +1,5 @@
 # 💫 About Me:
-SWE @ Aviatrix
+Senior Software Engineer @ Aviatrix
 
 
 ## 🌐 Socials:
