@@ -20,7 +20,7 @@ Senior Software Engineer @ Aviatrix
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-![D3](https://img.shields.io/badge/d3.js-%230A0FFF.svg?style=plastic&logo=d3.js&logoColor=white)
+![D3](https://img.shields.io/badge/d3.js-%F47853.svg?style=plastic&logo=d3.js&logoColor=white)
 
 ##### Familar Tech Stack
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
