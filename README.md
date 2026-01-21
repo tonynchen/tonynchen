@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Software Engineer @ Aviatrix
+Software Engineer @ Harvey
 
 
 ## 🌐 Socials:
