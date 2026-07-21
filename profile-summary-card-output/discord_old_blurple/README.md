@@ -32,3 +32,23 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/tonynchen/tonynchen/master/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/tonynchen/tonynchen/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
+```
+
+    
